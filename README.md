@@ -41,8 +41,9 @@ The need for an organized Downloads folder arises from the common scenario where
 3. **Run the Script Manually**
    - Open a terminal.
    - Navigate to the Downloads folder.
-   - Run the script using the command: `python3 _download_automation.py`
-   - Your Downloads folder should look organize now
+   - Create a few folder for your organized file
+   - Run the script using the command: `python3 automation.py >>~/Downloads/Log/log.txt`
+   - Your Downloads folder should look organized now and the log file will store or log information
 
 ## Automating with cron:
 
