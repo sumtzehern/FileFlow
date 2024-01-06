@@ -65,7 +65,7 @@ The need for an organized Downloads folder arises from the common scenario where
 0 */1 * * * cd ~/Downloads/ && python3 _download_automation.py >>~/Downloads/Log/log.txt
 ```
 
-** Note: If you encounter any issues running the script, ensure that the correct path to Python3 is set. You can check the path using the following command: **
+**Note: If you encounter any issues running the script, ensure that the correct path to Python3 is set. You can check the path using the following command:**
    ```bash
    which python3
    ```
@@ -84,7 +84,7 @@ Here are some helpful resources to explore further on working with files in Pyth
 2. **Automation in Python - Organizing Files:**
    - [Medium - Automation in Python: Organizing Files](https://medium.com/swlh/automation-python-organizing-files-5d2b6b933402)
 
-3. ** Crontab example on running every hour: **
-4. - [Wrap.dev - How to run cron every hour] (https://www.warp.dev/terminus/how-to-run-cron-every-hour)
+3. **Crontab example on running every hour:**
+   - [Wrap.dev - How to run cron every hour]((https://www.warp.dev/terminus/how-to-run-cron-every-hour))
 
 Feel free to refer to these resources for in-depth information and practical insights into file handling and automation using Python.
