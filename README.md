@@ -85,6 +85,6 @@ Here are some helpful resources to explore further on working with files in Pyth
    - [Medium - Automation in Python: Organizing Files](https://medium.com/swlh/automation-python-organizing-files-5d2b6b933402)
 
 3. **Crontab example on running every hour:**
-   - [Wrap.dev - How to run cron every hour]((https://www.warp.dev/terminus/how-to-run-cron-every-hour))
+   - [Wrap.dev - How to run cron every hour](https://www.warp.dev/terminus/how-to-run-cron-every-hour)
 
 Feel free to refer to these resources for in-depth information and practical insights into file handling and automation using Python.
